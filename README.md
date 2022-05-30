@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, I am Gerald Bosu Ofori
+
+A software engineer who specializes on the frontend, but not neglecting the backend as well.
 
 <!--
 **geraldofori/geraldofori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
