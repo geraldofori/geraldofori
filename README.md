@@ -5,6 +5,6 @@ A software engineer who specializes on the frontend, but not neglecting the back
 
 Tools & Technologies:
 
-- 🌱 I’m currently learning Docker and Mobile Development
-- 💬 Ask me about Angular and TypeScript
+- 🌱 I’m currently learning Docker and Mobile Development (Flutter)
+- 💬 Ask me about Front-end developement(Angular, React, TypeScript)
 - 📫 How to reach me: 
