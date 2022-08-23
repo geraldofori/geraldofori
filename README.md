@@ -28,10 +28,10 @@ Tools & Technologies:
 </p>
 
 ## **I've got everything to do with writing codes😍**
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=baabashinelle&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baabashinelle&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baabashinelle&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baabashinelle&theme=github_dark)
-[![Baaba Shinelle's stats](https://github-readme-stats.vercel.app/api?username=baabashinelle&show_icons=true&theme=github_dark)](https://github.com/baabashinelle)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=geraldofori&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geraldofori&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geraldofori&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geraldofori&theme=github_dark)
+[![Gerald Ofori's stats](https://github-readme-stats.vercel.app/api?username=geraldofori&show_icons=true&theme=github_dark)](https://github.com/geraldofori)
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=baabashinelle&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=geraldofori&theme=dracula)
