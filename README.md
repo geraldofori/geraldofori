@@ -16,6 +16,7 @@ A software engineer who specializes on the frontend, but not neglecting the back
 <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="25px" height="25px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="MongoDb" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="25px" height="25px">
