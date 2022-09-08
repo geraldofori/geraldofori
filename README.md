@@ -25,7 +25,7 @@ A software engineer who specializes on the frontend, but not neglecting the back
 <img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="25px" height="25px">
 </p>
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=geraldofori&theme=dracula&hide_border=true)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=geraldofori&theme=dracula&hide_border=true)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geraldofori&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geraldofori&theme=github_dark)
 [![Gerald Ofori's stats](https://github-readme-stats.vercel.app/api?username=geraldofori&show_icons=true&theme=github_dark)](https://github.com/geraldofori)
