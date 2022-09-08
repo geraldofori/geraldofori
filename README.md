@@ -26,7 +26,6 @@ A software engineer who specializes on the frontend, but not neglecting the back
 </p>
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=geraldofori&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geraldofori&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geraldofori&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geraldofori&theme=github_dark)
 [![Gerald Ofori's stats](https://github-readme-stats.vercel.app/api?username=geraldofori&show_icons=true&theme=github_dark)](https://github.com/geraldofori)
