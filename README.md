@@ -4,7 +4,7 @@ A software engineer who specializes on the frontend, but not neglecting the back
 
 
 
-- 🌱 I’m currently learning Nodejs and Spring.
+- 🌱 I’m currently learning Grails.
 - 💬 Ask me about Front-end developement(Angular, React, TypeScript)
 
 <h3 align="left">Tech Stack:</h3>
