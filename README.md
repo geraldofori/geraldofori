@@ -1,11 +1,11 @@
 ### Hi there, I'm Gerald Ofori👋
 
-A software engineer who specializes on the frontend, but not neglecting the backend altogether. I primarily  code in JavaScript,TypeScript and Java with Angular and React as my frontend technologies. Currently working for a fintech to help build financial solutions for the growing needs of stakeholders.
+A software engineer who  primarily  codes in JavaScript,TypeScript and Java with Angular and React as my frontend technologies with expertise in Groovy and Grails for my backend work.
 
 
 
 - 🌱 I’m currently learning Grails.
-- 💬 Ask me about Front-end developement(Angular, React, TypeScript)
+- 💬 Ask me about Front-end developement(Angular, React, TypeScript) and API's.
 
 <h3 align="left">Tech Stack:</h3>
 
