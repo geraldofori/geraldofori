@@ -1,11 +1,7 @@
 ### Hi there, I'm Gerald Ofori👋
 
-A software engineer who  primarily  codes in JavaScript,TypeScript,Java and C# with Angular and React as my frontend technologies with expertise in Groovy on Grails and .Net for my backend work.
+A write TS, Java and C# mostly.
 
-
-
-- 🌱 I’m currently learning Grails.
-- 💬 Ask me about Front-end developement(Angular, React, TypeScript) and API's.
 
 <h3 align="left">Tech Stack:</h3>
 
